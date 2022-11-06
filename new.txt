@@ -1,0 +1,4 @@
+Name - Dmytro,
+Age - 29,
+Pets - 2,
+Salary - 1500.
