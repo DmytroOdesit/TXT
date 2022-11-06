@@ -1,0 +1,5 @@
+Film: "Jon_Wick",
+"Serial": "Simpsons",
+"Food": "Meat",
+"Part_of_year": "Spring",
+"Country_to_visit": "Georgia"
