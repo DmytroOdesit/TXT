@@ -1,2 +1,25 @@
-some bug
-more bug
+                                    BUG
+  Title
+   
+There is no transition to the Currency.com website when you tap on "Go to Currency.com". (The alert opens)	
+
+   Precondition
+   
+1. The app is downloaded 
+2. Launch App"
+
+   Steps
+   
+1. Tap Burger menu
+2. Tap List Boxes ""Training""
+3. Tap the [Play] button
+4. Complete 50 riddle correctly
+5. Tap [Go to Currency.com] button"	
+
+   Actual Result
+   
+Alert is appeared "Failed to open web page net::ERR_CLEARTEXT_NOT_PERMITTED"
+
+   Expected Result
+   
+The "Currency.com" site is opened
