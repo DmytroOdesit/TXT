@@ -1,1 +1,26 @@
-"Skills": "testing, checking"
+{"Soft Skills": 
+    "Communication",
+    "Teamwork",
+    "Critical thinking",
+    "Decision making",
+    "Knowledge management",
+    "Working in uncertainty mode",
+    "Lean manufacturing",
+    "Environmental thinking",
+    "Introspection and self‑reflection"}
+
+{"Hard Skills" : 
+    "Requirements testing",
+    "Regression testing, Integration testing, UI/UX testing, Ad-hoc testing",
+    "Writing checklists: smoke, critical, regression",
+    "Making bug reports",
+    "Testing of mobile applications",
+    "Android/iOS Developer Settings",
+    "Basic knowledge Postman",
+    "Basic JavaScript",
+    "DevTools",
+    "Terminal Linux",
+    "Android Studio",
+    "Charles",
+    "Jmeter",
+    "Basic SQL"}
